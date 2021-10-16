@@ -1,2 +1,2 @@
-# 2122-3bhitm-itp-lecture-notes
+# 2122-3bhitm-Spindler-Thomas-lecture-notes
 
