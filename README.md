@@ -2,6 +2,6 @@
 
 Lecture notes from the ITP lessons in the last
 
-- ##Homework 1:
+- Homework 1:
     >Java project proposition
 ---
