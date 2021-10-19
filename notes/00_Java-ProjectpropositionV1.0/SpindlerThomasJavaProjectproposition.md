@@ -4,7 +4,7 @@ Class: 3BHITM \
 Hand in: 21.10.2021 \
 [Github repository](https://github.com/2122-3bhitm-itp/01-projektantrag-MctomSpdo)
 
-##Technologies requirements
+## Technologies requirements
  > - Java
  > - JavaFX
  
